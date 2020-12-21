@@ -25,6 +25,6 @@ Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/downlo
 
 Objectif atteint.
 
-![alt text](https://github.com/TritzA/FSM_VHDL/tree/main/image)
+![alt text](https://github.com/TritzA/FSM_VHDL/blob/main/image/objectif.PNG)
 
 
