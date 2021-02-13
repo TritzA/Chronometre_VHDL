@@ -1,4 +1,4 @@
-# Chronometre_VHDL
+# Chronometre-VHDL
 
 Chronomètre codé en VHDL à l'aide de machines à états.
 
